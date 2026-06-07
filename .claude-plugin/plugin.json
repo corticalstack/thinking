@@ -1,0 +1,18 @@
+{
+  "name": "thinking",
+  "version": "0.1.0",
+  "description": "Thinking and reasoning skills for Claude Code: multi-perspective deliberation, scientific brainstorming, and context-engineering fundamentals.",
+  "author": {
+    "name": "corticalstack"
+  },
+  "homepage": "https://github.com/corticalstack/thinking",
+  "repository": "https://github.com/corticalstack/thinking",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "thinking",
+    "reasoning",
+    "agent-skills"
+  ],
+  "skills": "./.claude/skills/"
+}

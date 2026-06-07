@@ -1,0 +1,13 @@
+{
+  "name": "thinking",
+  "owner": {
+    "name": "corticalstack"
+  },
+  "plugins": [
+    {
+      "name": "thinking",
+      "source": ".",
+      "description": "Thinking and reasoning skills (consciousness council, scientific brainstorming, context engineering)."
+    }
+  ]
+}
