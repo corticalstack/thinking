@@ -1,5 +1,6 @@
 {
   "name": "thinking",
+  "description": "Thinking and reasoning skills for Claude Code.",
   "owner": {
     "name": "corticalstack"
   },
